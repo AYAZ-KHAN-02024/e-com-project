@@ -7,7 +7,6 @@
         <li><code>npm install</code></li>
         <li><code>npm install -D tailwindcss postcss autoprefixer</code></li>
         <li><code>npx tailwindcss init -p</code></li>
-        <li><code>npx tailwindcss init -p</code></li>
         <li><code>npm i react-router-dom</code></li>
         <li><code>npm install -g json-server</code></li>
         <li>open other 2nd terminal by click on "+ icon" of Vs code terminal, and go in your project directory without deleting previous terminal→ <br><code>cd repositoryName(e-com-project)</code></li>
