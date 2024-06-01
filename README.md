@@ -1,6 +1,6 @@
 <h1>E-commerce project</h1>
 <h4>hosted link→ <a href="https://e-commerce-project-ayaz.netlify.app/" target="_blank">https://e-commerce-project-ayaz.netlify.app</a></h4>
-<h2>Installations and running →</h2>
+<h2>Installations and run →</h2>
     <ol>
         <li>colone repository → <br> <code>git clone https://github.com/AYAZ-KHAN-02024/e-com-project.git</code></li>
         <li><code>cd repositoryName(e-com-project)</code></li>
