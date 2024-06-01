@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.loading{
+    animation: load 2s ease-in  infinite  alternate;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+@keyframes load {
+    0%{
+       
+        color: red;
+    }
+    20%{
+       
+        color: rgb(0, 0, 0);
+    }
+    50%{
+       
+        color: rgb(98, 0, 255);
+    }
+    70%{
+        
+        color: rgb(38, 0, 255);
+    }
+    100%{
+       color: brown;
+    }
+}
